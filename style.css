@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #eef1f5;
+}
+
+.app {
+  width: 500px;
+  margin: 60px auto;
+  background: white;
+  padding: 25px;
+  border-radius: 8px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 6px 0;
+}
+
+textarea {
+  height: 80px;
+}
+
+.note {
+  background: #f7f7f7;
+  padding: 15px;
+  margin-top: 10px;
+  border-radius: 6px;
+}
+
+.note h3 {
+  margin-bottom: 5px;
+}
+
+.note button {
+  margin-top: 8px;
+}
